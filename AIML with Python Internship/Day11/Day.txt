@@ -1,0 +1,51 @@
+Dictionary ={
+    'india': [a,b,c,10.899],
+    'austrilia' : [run,10.899]
+}
+
+
+Numpy:
+Numerical python (used to perform mathematical operation)
+
+pip install Numpy
+
+import numpy as np
+
+np.array([1,2,3,4,5])
+
+numpy => array()=> (homogeneous ) int,string,float, memory used in efficient manner,numpy for specific numerical value 
+
+python list1=> multiple value stored in list , 
+
+
+tools 
+anaconda => idle,pycharm,jupyter notebook 
+google colab 
+
+numpy--
+-array
+-full
+-arrange
+-randint import random(10,50)
+-shape
+-vertical
+-horixontal
+-set
+-sum
+-intersction and difference 
+-median 
+-mean 
+-std
+-nested array
+-matrix
+-transpose
+-dot multiplication 
+-save 
+-load 
+-
+
+
+[1,2,3,4,5,6,7]
+
+
+std =>root (var)

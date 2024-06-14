@@ -1,0 +1,160 @@
+'''==========================================================[Git / Github ]==============================================='''
+
+'''==========================================================[Git  ]==============================================='''
+
+
+(1)version control system 
+-source code management system 
+-keep record  of version of the projects.
+
+(2) need of version control system 
+-to remove overlaping 
+-to store the each and every update and metadata
+
+(3) benefits of version control system
+-backup the files 
+-time sving
+-efficient
+-collaborative
+-resolution of confilcts 
+
+
+
+
+# installation 
+git installation : 
+(step1)google search : gihub install 
+(step2)install github for our pc mac/windows
+  
+
+github:
+- create account with Gmail
+-create your first repo
+
+
+    # Features of Git 
+•	Distributed version –no network required ,  no single point of failure 
+•	Staging area – virtual area between working space and local repository  , hashing conversion  , lesser mb file 
+•	Open source , free 
+•	efficient
+
+    # Architecture of Git 
+
+    -Working directory = Staging => local repository => Remote Repository
+
+•	git add . commend used from working directory to staging
+•	git commit -m ‘message’ is used from staging area to local repository
+•	git push /git clone is used from local repository to remote repository
+
+    # flow of the file in Git 
+•	Untracted / modified  it is in working space 
+•	Staged  after the git add . command then file is saved in staging area then this state is called staged
+•	Repository  after the git commit file it is In local git repository 
+
+    # Git Commands 
+
+•	ls => it will show all the files in the working space / working folder .
+•	mkdir folder-name =>  used to make the folder 
+•	touch file.txt => used to make the file 
+•	ls -files => it will show the only files which included in staging area
+•	git status => it will show the current position of the file 
+•	git add . => used to add the file from the staging area
+•	cat file.txt => helps to show the content of the file
+•	git restore –staged file.txt => remove the file from the staging area
+•	git log => to show the history of the project and  it’s commits
+•	rm rf file.txt => help to delete the file 
+•	git reset “hash value of the post commit “ => it will remove the pre commits of this hashing value of post commit
+•	git stash => it will help to save the file into the back stage .
+•	git stash pop => it will help to again recover the file in the staging area
+•	git stash clear => remove the file from the staging area and file are gone
+•	create the remote repository in the github
+•	git remote add origin “URL of the Repo which we have created in the github” => help to link up the local repo to remote repo
+•	git remote -v => shoe  all the file attach in the URL
+•	git push origin master => update the changes from local repo to remote repo 
+•	git branch new => if we want new feature and removing bug the we create branch
+•	git  checkout new => it will help to point the head pointer into new branch
+•	git merge new => it will help to merge the file into the part of main branch
+•	fork => working with exiting another   project like open source then we use fork
+•	clone => it will create the copy of the another exiting project in our working directory 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

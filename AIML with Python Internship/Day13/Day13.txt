@@ -1,0 +1,44 @@
+Example of iloc 
+data => 
+data.iloc[x,y]
+
+data.iloc[0:3,6:10]
+=============================================
+
+matrix => 1,2,3,4,5
+         6,7,8,9,10
+         1,1,1,1,1
+
+
+
+         we facth : 7,8
+                    1,1
+
+                    data.iloc[]
+
+# starting Matplotlib
+
+plt.show # this do as print 
+arange
+title
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cluster  => a bunch
+Example=>
+
+car,bycycle, motorcycle,zip,
+features / fdifference
+two wheeler = 2 tyre , handle 
+four wheele  = 4 tyre ,stering
