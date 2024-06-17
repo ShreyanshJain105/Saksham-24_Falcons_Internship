@@ -1,0 +1,74 @@
+steps for data Analysis
+1. data Analysis , dataload 
+2. understand 
+
+
+what is the datatype of each and every colum and rows
+lil.Info()
+
+data analsis in maths way
+lil.describe()
+
+tit.duplicate
+
+
+
+
+
+
+load ===> sample (seaborn)
+
+
+sns.get_ dataset _names()
+down = path
+
+link =.
+
+web scrapping => 
+
+api
+
+json ,csv
+
+1. undersand he data=.
+
+how big  our data is => column , rows
+
+
+#####################################
+
+
+nullvalue
+duplicaes
+missing value handle
+mathematcical caluculaion => describe (min,max,std)
+correction
+NAN
+
+in python null value is => not a number 
+
+
+corelation
+tit.corr()
+
+tit.corr()['survived']   #could;n cotain strig value
+
+relationships between two coulmns=.
+increase
+decrease
+
+
+(-1 to 1)
+
+(inverse corelation) => value between -1  one increase and one decrease 
+(postive corelation)  => value betwwen  1  bothincrease 
+
+
+
+
+
+#########################################
+EDA(Exploratory data analsis)
+1.univarirate => for single value 
+2. varirate  => twocolumns 
+3.multi varirate => multiple columns 
