@@ -1,0 +1,56 @@
+Day 16 Project for EDA
+=================================================================================================
+
+Imports essential libraries:
+seaborn: For creating statistical visualizations.
+pandas: For data manipulation and analysis.
+matplotlib.pyplot: For plotting capabilities.
+
+==================================================================================================
+
+Reads your CSV data into a pandas DataFrame named df.
+Replace 'filename.csv' with the actual file path.
+
+=====================================================================================================
+
+Prints the first few rows of the DataFrame (df.head()).
+Shows the DataFrame's dimensions (number of rows and columns) using df.shape.
+Provides information about data types and missing values in each column (df.info()).
+
+=======================================================================================================
+
+Calculates summary statistics (mean, median, standard deviation, etc.) for the specified numerical column (df['column_name']).
+
+=====================================================================================================
+
+Creates a histogram to visualize the distribution of values in the chosen numerical column (df['column_name']).
+
+=======================================================================================================
+
+Counts the occurrences of each unique value in the categorical column (df['column_name']).
+
+========================================================================================================
+
+Creates a bar chart showing the frequency of each category in the specified column (df['column_name']).
+
+==========================================================================================================
+
+Creates a scatter plot to explore the relationship between two numerical columns (column_name1 and column_name2).
+
+============================================================================================================
+
+Creates a bar chart to compare the values in a numerical column (numerical_column) across categories of another column (categorical_column).
+
+================================================================================================================
+
+Creates a box plot to visualize the distribution of a numerical column (numerical_column) within different categories of another column (categorical_column).
+
+=================================================================================================================
+
+These code blocks allow you to explore relationships between a numerical column (x-axis) and another numerical column (y-axis), while considering additional categorical variables:
+hue: Colors data points based on a third categorical column.
+style: Uses different shapes to represent data points from different categories in a fourth column.
+
+=================================================================================================================
+
+missing value for null 
