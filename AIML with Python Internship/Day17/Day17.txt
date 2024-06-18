@@ -1,0 +1,40 @@
+web scrapping 
+
+
+library => beautifulsoup
+
+dynamic =>> weatther. airquality, creaker,api
+
+currnt siuaion according we are able to make decision
+
+
+fronted part => content 
+
+backend part => secure par and not visible to user 
+
+1. load website 
+2. parse html data
+3. extarct tidy data
+4. transform 
+
+pd.read_csv('')+ staticdata  => faults 
+
+for API 
+
+HTTP => request , request 
+
+
+[RESPONSE TYPES  status codes ]
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
+
+
+client => link=> request=>server => then server priovides all content of website 
+
+
+response => get 
+
+form fillup => submit => post 
