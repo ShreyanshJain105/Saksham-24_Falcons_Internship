@@ -25,13 +25,11 @@ Python's basic data types : Numeric
 
 Control statements in Python:  Python uses "If", "Elif", "Else" statements, loops like "For" and "While", and control statements like "Break", "Continue", and "Pass".
 
-Python Libraries for AI & ML:   SciPy(scientific computations)
-                               NumPy (numerical computing)
-                               Pandas (data manipulation and analysis)
-                               Matplotlib/Seaborn (data visualization)
+
 
 #=================================={ Git / Github }============================================#
-  Phase 1: Git Basics 
+ PHASE 2 . GIT & GIHUB
+1: Git Basics 
 
 Installation: Download and install Git on your computer following the official instructions https://www.git-scm.com/downloads.
 Configuration: Set up your username and email for Git commits using git config --global user.name "Your Name" and git config --global user.email "your@email.com".
@@ -39,7 +37,7 @@ Core Commands: Learn the fundamental Git commands like git init (initialize a re
 Version Control: Grasp the concept of version control and how Git tracks changes in your code over time.
 Local Repository: Understand the concept of a local repository where your project's history is stored.
 
-Phase 2: GitHub Fundamentals 
+2: GitHub Fundamentals 
 
 Create an Account: Sign up for a free GitHub account.
 Remote Repositories: Learn about remote repositories hosted on GitHub and how they connect to your local repository.
@@ -48,7 +46,7 @@ Branches: Get familiar with Git branching, which allows you to create isolated e
 Collaboration: Explore how to collaborate with others on GitHub using branches, pull requests, and code review.
 
 
-Phase 3: Intermediate Git 
+3: Intermediate Git 
 
 Staging Area: Deepen your understanding of the staging area and how it helps you manage changes before committing.
 Ignoring Files: Learn how to use the .gitignore file to exclude specific files or folders from version control.
@@ -57,7 +55,7 @@ Resolving Conflicts: Learn how to handle merge conflicts that arise when differe
 Stashing Changes: Understand the concept of stashing, which allows you to temporarily save uncommitted changes and come back to them later.
 
 
-Phase 4: Advanced Git and GitHub 
+4: Advanced Git and GitHub 
 
 Branching Strategies: Explore different branching strategies like Gitflow or feature branching to manage complex projects effectively.
 Rebasing: Learn about rebasing, an advanced technique for rewriting your commit history.
@@ -65,18 +63,26 @@ Submodules: Understand how to use Git submodules to include external projects wi
 GitHub Features: Dive deeper into advanced GitHub features like protected branches, issue tracking, project management tools, and organization management (if applicable).
 Git Hooks: Explore Git hooks to automate tasks before, during, or after specific Git events.
 
-Learning Resources:
 
-Throughout my  journey, refer to the official Git documentation https://www.git-scm.com/ and GitHub guides https://docs.github.com/en/get-started/start-your-journey/hello-world.
-Many interactive tutorials and websites offer hands-on practice with Git commands https://www.atlassian.com/git/tutorials.
+#=================================={ Data Analysis }============================================#
+  
+Phase 2. Data Analysis : 
+
+Python Libraries for AI & ML:   SciPy(scientific computations)
+                               NumPy (numerical computing)
+                               Pandas (data manipulation and analysis)
+                               Matplotlib/Seaborn (data visualization)
+                               Seaborn: Built on top of Matplotlib, Seaborn provides a high-level interface for creating statistical graphics with a focus on clarity and aesthetics.
+                               Scikit-learn: A comprehensive library for machine learning tasks like classification, regression, clustering, and model selection.
 
 
 
-Phase 2. Introduction to AI: 
+#=================================={ Machine learning }============================================#
 
+ 
+Phase 3. machine learning
 
-#=================================={ AI }============================================#
-    
+  
 
 
 
