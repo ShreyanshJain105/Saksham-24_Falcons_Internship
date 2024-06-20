@@ -1,0 +1,55 @@
+/// ======== eda revision session ==============
+
+
+univariate => single coulmn 
+bivariate  => two column 
+multivariate => multi column 
+
+libraries :
+seaborn,matpotlib,pandas,numpy
+
+tit.shape
+tit.head()
+tit.tail()
+
+//Dynamic dataset => web scarpping 
+
+sns.load_dataset('csa file')
+
+tit.sample(10)
+
+tit.info()
+
+tit.duplicate() => for duplicate valuye 
+
+missing value => NAN
+
+hue := differniiate coulmn by color 
+
+histplot=> frequncy of numerical data
+
+
+tit.countplot()
+
+
+///=========  standerizilation 
+data preprocessing => 
+=feature engineering (column)  => 
+
+feature scalling => 
+
+age      salary 
+(0-100)  (78,98000,100000)
+
+distance(d)=[100] , high range 
+
+
+formula => x-in /std 
+
+feature sandaerlization  
+
+normalization => 
+
+tacher => teaching datta training 
+
+exams => quesion => texting =>output 
