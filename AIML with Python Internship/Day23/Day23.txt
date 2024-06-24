@@ -1,0 +1,71 @@
+
+today session about show our projects .
+
+
+
+
+Missing values
+
+Mode , median , std 
+
+Handle categorical data
+
+
+Outlier detection
+
+
+Feature scaling  (1, -1)
+
+0 -100
+
+(x2-x1)2  -(y2-y1)2
+(1, -1)
+
+
+Feature construction
+
+Sibling , parent ,group→ 1
+Alone → 0
+
+
+
+
+
+Feature selection → important 
+
+
+Feature Extraction
+
+
+
+Home → roms [ bath , dining , bad , washroom , balcony ] (x ,y)
+1 bhk , 2bhk , square fit  , area , facality  (gather )  , integer x1 , y1 
+
+Goal ⇒ price find out 
+
+
+
+
+Feature Engineering—>
+
+
+Column → car  —> mileage , tar  , quality , model, prize 
+Row format 
+
+
+Feature → bird , animal 
+
+Bird→ feather 
+
+
+
+Child→ 
+Cow → white , big , 
+
+
+Machine → feature →imp feature → train → model fit →
+
+Cow → white , big ,
+
+
+
