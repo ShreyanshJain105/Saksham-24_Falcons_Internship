@@ -1,0 +1,58 @@
+Life cycle of ml
+regression = [linear regreesion , muliple linear regreesion ]
+
+
+data aquistion = target
+
+data preprocessing = read , claen 
+
+machine learning = linear, classification , clusting 
+
+evalution pattern = check 
+
+
+
+knoweldege represenatiom = chart , ml deploy 
+
+
+supervised - 
+
+
+x- input    {themachine fitt and train heodel }
+
+
+(x)  = input  
+(y)  = predict
+
+
+y - output /label 
+
+1. regreesion = y - numerical format  ex . x=cgpa   = grescore 
+
+2. classification   =y - catregorical format ex. x=cgpa  = yes /no 
+
+regression:
+
+1> linear regression = linear format
+
+
+=============example =======
+basically =  we have achar of linearregression and axis x=cgpa and y=grescore 
+according to 55 gre score?
+''==========''79 gre score 
+
+
+
+
+2> multiple linear regression = linear format
+
+the ml running on formula 
+
+y=mx+c
+y=outtput
+m= slobe
+x= input feature
+c= constant
+
+
+
